@@ -25,26 +25,23 @@ Adicionar uma descrição do projeto (1 parágrafo).
 |--> assets<br>
   &emsp;| --> imagens <br>
   &emsp;| --> vídeos <br>
-|--> documentos<br>
+|--> documents<br>
   &emsp;| --> apresentação <br>
   &emsp;| --> outros <br>
-  &emsp;| T4_G5_V1_PLN_Document.pdf<br>
-  &emsp;| T4_G5_V1_PLN_Document.docx<br>
+  &emsp;| T4_GX_V1_Document.pdf<br>
+  &emsp;| T4_GX_V1_Document.docx<br>
 |--> src<br>
-  &emsp;|--> Código Fonte<br>
-  &emsp;|--> Notebook<br>
-  &emsp;|--> readme.md<br>
 | readme.md<br>
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>assets</b>: aqui estão os arquivos relacionados a parte gráfica do projeto, ou seja, as imagens e vídeos que os representam (O logo do grupo pode ser adicionado nesta pasta).
+- <b>assets</b>: aqui estão os arquivos relacionados a parte gráfica do projeto, as imagens e vídeos que os representam (O logo do grupo pode ser adicionado nesta pasta).
 
-- <b>documentos</b>: aqui estão todos os documentos do projeto, incluindo o manual de instruções (se aplicável). Há também uma pasta denominada <b>outros</b> onde estão presentes outros documentos complementares.
+- <b>document</b>: aqui estão todos os documentos do projeto, incluindo o manual de instruções (se aplicável). Há também uma pasta denominada <b>outros</b> onde estão presentes outros documentos complementares.
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto, incluindo os notebooks, backend e frontend se aplicáveis.
+- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto.
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto.
 
 ## 🔧 Instalação
 
@@ -53,7 +50,7 @@ Acrescentar as informações necessárias para instalação do projeto, assim co
 
 ## 💻 Configuração de Desenvolvimento
 
-Acrescentar as informações necessárias para configuração de desenvolvimento do projeto (modificação do projeto).
+Acrescentar as informações necessárias para configuração de desenvolvimento do projeto (Modificação do projeto - Arquivo Separado dentro da pasta "document"). No caso do SAP B1 o documento deverá conter desde as parametrizações iniciar até a configuração dos módulos.
 
 
 ## 🗃 Histórico de lançamentos
